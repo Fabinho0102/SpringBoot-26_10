@@ -35,5 +35,5 @@ banco de dados para gerar valores exclusivos.
 Também indicamos o nome do gerador de chave primária. 
 Se você não der o nome, o valor do id será gerado 
 com a tabela hibernate_sequence 
-(fornecida pelo provedor de persistência, para todas as entidades) por padrão.
+(fornecida pelo provedor de persistência, para todas as entidades) por padro.
 */
